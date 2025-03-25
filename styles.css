@@ -114,7 +114,10 @@ ul li:hover {
 #contact p a:hover {
     color: #ff3b3b;
 }
-
+img {
+    border-radius: 100%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
 /* Footer */
 
 footer {
